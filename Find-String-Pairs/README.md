@@ -9,5 +9,7 @@ dzone java dzone dzone javascript java
 the results would be 
 
 dzone has 1 adjacent pair 
+
 dzone has 3 combination pairs (0,2) (0,3) (2,3)
+
 java has 1 combination pair (1,5) 
